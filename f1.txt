@@ -2,3 +2,4 @@ Creating my source code in my source repository which is hosted in my remote web
 
 Adding my additional code to fix the existing bug in my application.
 
+Added code for new feature by developer 2.
